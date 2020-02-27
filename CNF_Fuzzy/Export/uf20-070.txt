@@ -1,0 +1,4 @@
+Avg_Generation:3
+Avg_success_rate:1
+solution:[False  True  True  True False False False  True  True  True False False
+ False False False  True  True  True  True False]
